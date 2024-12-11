@@ -2,12 +2,12 @@
 #About me
 Product Manger with 4.5years of experience 
 
-#Work Experience
+###Work Experience
 Jio Platforms Ltd
 Zaggle
 Tata Consultancy Services
 
-#Education
+###Education
 IIM Shillong
 SASTRA University
 
