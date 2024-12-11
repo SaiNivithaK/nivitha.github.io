@@ -6,7 +6,7 @@ I thrive on solving problems, digitizing experiences, and driving cross-function
 ## Work Experience
 ### JIO PLATFORMS LIMITED (B2B, B2C | IAAS, SAAS)                                                                                    AUGUST’ 23-PRESENT
 #### Product Manager, Jio Edge Cloud Services	
-<Led the development and launch of a cloud Object Storage Service leveraging open-source technologies, achieving 70% feature parity with leading CSPs, and currently supporting 50+ active internal users.>
+</Led the development and launch of a cloud Object Storage Service leveraging open-source technologies, achieving 70% feature parity with leading CSPs, and currently supporting 50+ active internal users./>
 ●	Drove a 6-person team to develop and launch a self-serve Bare Metal Container-as-a-Service, automating and reducing cluster deployment times by ~50% within 4 months.
 ●	Streamlined QA testing process for 7 applications and services, achieving a ~17% reduction in defects and ~20% increase in performance by benchmarking standards.
 ●	Managed and collaborated with a team of 25+ developers, designers, QA, product managers to develop and deliver exceptional products for internal users.
