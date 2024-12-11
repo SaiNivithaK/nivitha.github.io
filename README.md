@@ -27,20 +27,20 @@ I thrive on solving problems, digitizing experiences, and driving cross-function
 
 ## Education
 #### PGPM(MBA) Shillong, 2023
-###### IIM Shillong – 78.38%
+##### IIM Shillong – 78.38%
 <li>National Finalist for Reliance TUP7.0 among 1000+ participating teams.</li>
 	 
 #### B.Tech (ECE) Thanjavur, 2018 
-###### SASTRA University – 81.86%	 
+##### SASTRA University – 81.86%	 
 <li>Placed on the Dean's Merit List for achieving a CGPA within the top 10% of my first-year.</li>
 
 #### CLASS XII 	Nellore, 2014 
-###### Narayana Junior College – 98.20%	
+##### Narayana Junior College – 98.20%	
 <li>Awarded SHE Scholarship under INSPIRE scheme for performance within top 1% in BIEAP.</li>
 <li>Merit-based scholarship recipient of Central Sector Scheme of Scholarship (CSSS).</li>
 
 #### CLASS X 	Nellore, 2012 
-###### Sri Chaitanya EM School – 87.4%	
+##### Sri Chaitanya EM School – 87.4%	
 <li>Awarded C.V Raman ‘Young Genius' for securing district 1st in Science Talent Examination.</li>
 
 
