@@ -26,30 +26,49 @@ I thrive on solving problems, digitizing experiences, and driving cross-function
 
 
 ## Education
-PGPM(MBA) 	Shillong, 2023
-IIM Shillong – 78.38%
+#### PGPM(MBA) Shillong, 2023
+###### IIM Shillong – 78.38%
+<li>National Finalist for Reliance TUP7.0 among 1000+ participating teams.</li>
 	 
-B.Tech (ECE) 	Thanjavur, 2018 
-SASTRA University – 81.86%	 
-Placed on the Dean's Merit List for achieving a CGPA within the top 10% of my first-year.
+#### B.Tech (ECE) Thanjavur, 2018 
+###### SASTRA University – 81.86%	 
+<li>Placed on the Dean's Merit List for achieving a CGPA within the top 10% of my first-year.</li>
 
-CLASS XII 	Nellore, 2014 
-Narayana Junior College – 98.20%	
-Awarded SHE Scholarship under INSPIRE scheme for performance within top 1% in BIEAP.
-Merit-based scholarship recipient of Central Sector Scheme of Scholarship (CSSS).
+#### CLASS XII 	Nellore, 2014 
+###### Narayana Junior College – 98.20%	
+<li>Awarded SHE Scholarship under INSPIRE scheme for performance within top 1% in BIEAP.</li>
+<li>Merit-based scholarship recipient of Central Sector Scheme of Scholarship (CSSS).</li>
 
-CLASS X 	Nellore, 2012 
-Sri Chaitanya EM School – 87.4%	
-Awarded C.V Raman ‘Young Genius' for securing district 1st in Science Talent Examination.
+#### CLASS X 	Nellore, 2012 
+###### Sri Chaitanya EM School – 87.4%	
+<li>Awarded C.V Raman ‘Young Genius' for securing district 1st in Science Talent Examination.</li>
 
 
 ## Projects
 ##### Data Analytics Using Python, IIM Shillong
-
 Analyzed a dataset of 1.3M product sales to uncover key insights into customer behavior, product performance, and historical sales trends. Built a predictive model to forecast next 5-year sales trends, enabling data-driven strategic business decisions.
 
+## Positions of Responsibility
+<li>Member and Lead Volunteer of ‘Nurturing Minds,’ an educational outreach initiative by IIM Shillong.</li>
+<li>Coordinated various events and games for 200+ Telugu students, bringing them together.</li>
+<li>Managed all aspects from funding and planning to successful execution of the Annual Telugu cultural fest.</li>
+<li>As a member of infrastructure club managed inventory during for 15+ college events, club meets, fests, and workshops.</li>
+<li>Coordinated as a co-host during school's 10-year Anniversary celebrations in addressing guests.</li>
+<li>Elected as class representative in 10th, corresponded between students and teachers fostering a positive environment.</li>
+
+## Certifications
+<li>Product Management Essentials course completion certificate from Coursera.</li>
+<li>Digital Product Management: Modern Fundamentals from Coursera.</li>
+<li>Fundamentals of Cloud Computing from Coursera.</li>
+<li>Advanced Google Analytics course completion certificate from the Google Analytics Academy.</li>
+<li>Google certified The Fundamentals of Digital Marketing course from Google Digital Unlocked.</li>
+<li>Certified Google Analytics Individual Qualification.</li>
+
+
+## Skill
+MS Power Point and Excel, Market Research, Competitive Analysis, Product Vision, Strategy & Roadmap, UI/UX Design (Figma), Agile, Product Lifecycle Management, Project Management & Cross-Functional Leadership, Prioritization & Execution, End-to-End Feature Delivery, Python, SQL, HTML, Cloud Native Technologies & Concepts. 
 
 
 ## Interests
-Reading, Painting, Badminton
+Reading (Fiction), Teaching, Water Color Painting, Badminton, Farming, Nature
 
