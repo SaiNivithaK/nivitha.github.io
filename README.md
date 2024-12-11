@@ -8,21 +8,21 @@ I thrive on solving problems, digitizing experiences, and driving cross-function
 #### Product Manager, Jio Edge Cloud Services	
 <li>Led the development and launch of a cloud Object Storage Service leveraging open-source technologies, achieving 70% feature parity with leading CSPs, and currently supporting 50+ active internal users.</li>
 <li>Drove a 6-person team to develop and launch a self-serve Bare Metal Container-as-a-Service, automating and reducing cluster deployment times by ~50% within 4 months.</li>
-●	Streamlined QA testing process for 7 applications and services, achieving a ~17% reduction in defects and ~20% increase in performance by benchmarking standards.
-●	Managed and collaborated with a team of 25+ developers, designers, QA, product managers to develop and deliver exceptional products for internal users.
-●	Spearheaded strategic partnerships with HPE and Intel, driving 2 POC’s setup and achieving mutually beneficial outcomes through effective stakeholder management and discussions.
-●	Worked with leadership to create and present impactful product demos, strategic roadmaps, go-to-market strategies, and data-driven budget proposals, successfully securing a 10% initial investment.
+<li>Streamlined QA testing process for 7 applications and services, achieving a ~17% reduction in defects and ~20% increase in performance by benchmarking standards.</li>
+<li>Managed and collaborated with a team of 25+ developers, designers, QA, product managers to develop and deliver exceptional products for internal users.</li>
+<li>Spearheaded strategic partnerships with HPE and Intel, driving 2 POC’s setup and achieving mutually beneficial outcomes through effective stakeholder management and discussions.</li>
+<li>Worked with leadership to create and present impactful product demos, strategic roadmaps, go-to-market strategies, and data-driven budget proposals, successfully securing a 10% initial investment.</li>
 
 ### ZAGGLE (B2B | SAAS)                                                                                                                              APRIL’ 22 - MAY’ 22
 #### Product Manager Intern, Zaggle SAVE
-●	Collaborated with 3+clients to gather requirements, designing user journeys, PRDs, and wireframes for a client onboarding and email alerting feature, improving SAVE's signup efficiency by 64%.
-●	Partnered with sales, support, and marketing teams to analyze metrics, identify gaps and opportunities, creating a prioritized product backlog with 35+ actionable feedback items.
+<li>Collaborated with 3+clients to gather requirements, designing user journeys, PRDs, and wireframes for a client onboarding and email alerting feature, improving SAVE's signup efficiency by 64%.</li>
+<li>Partnered with sales, support, and marketing teams to analyze metrics, identify gaps and opportunities, creating a prioritized product backlog with 35+ actionable feedback items.</li>
 
 ### TATA CONSULTANCY SERVICES                                                                                                       JUNE’ 18- AUGUST’ 21
 #### System Engineer, MJPJAY
-●	Redesigned Follow-up and Repudiation modules, effectively coordinating with diverse stakeholders to implement key changes, leading to 40% increase in customer satisfaction ratings.
-●	Developed a feature for the empaneled hospitals to enroll and manage their services in the application.
-●	Led the development of a critical claims’ module, successfully integrating 3 banking clients for secure transactions, while reducing delivery time by 29%.
+<li>Redesigned Follow-up and Repudiation modules, effectively coordinating with diverse stakeholders to implement key changes, leading to 40% increase in customer satisfaction ratings.</li>
+<li>Developed a feature for the empaneled hospitals to enroll and manage their services in the application.</li>
+<li>Led the development of a critical claims’ module, successfully integrating 3 banking clients for secure transactions, while reducing delivery time by 29%.</li>
 
 
 ## Education
