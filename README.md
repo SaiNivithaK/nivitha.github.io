@@ -1,4 +1,4 @@
---# Kalicheti Sai Nivitha
+-
 ## Product Manager
 ![screenshot](pictures/image.jpeg)
 ### About me
