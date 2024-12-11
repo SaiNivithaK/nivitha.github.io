@@ -26,8 +26,22 @@ I thrive on solving problems, digitizing experiences, and driving cross-function
 
 
 ## Education
-IIM Shillong
-SASTRA University
+PGPM(MBA) 	Shillong, 2023
+IIM Shillong – 78.38%
+	 
+B.Tech (ECE) 	Thanjavur, 2018 
+SASTRA University – 81.86%	 
+Placed on the Dean's Merit List for achieving a CGPA within the top 10% of my first-year.
+
+CLASS XII 	Nellore, 2014 
+Narayana Junior College – 98.20%	
+Awarded SHE Scholarship under INSPIRE scheme for performance within top 1% in BIEAP.
+Merit-based scholarship recipient of Central Sector Scheme of Scholarship (CSSS).
+
+CLASS X 	Nellore, 2012 
+Sri Chaitanya EM School – 87.4%	
+Awarded C.V Raman ‘Young Genius' for securing district 1st in Science Talent Examination.
+
 
 ## Projects
 ##### Data Analytics Using Python, IIM Shillong
