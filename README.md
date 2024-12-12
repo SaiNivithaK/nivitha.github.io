@@ -1,4 +1,4 @@
-<h3 align="center"> Kalicheti Sai Nivitha </h3>
+<h1 align="center"> Kalicheti Sai Nivitha </h1>
 
  
 	                                                           ![screenshot](pictures/image.jpeg)
@@ -6,12 +6,13 @@
 
 [![screenshot2](picture/hitheree.png)](pictures/image.jpeg)
 
-## About me
+<h2 align="center"> About me </h2>
 Hi there! I’m Nivitha, a product manager with a knack for turning ideas into impactful products that deliver customer value and business growth. I bring a diverse set of skills and mindset—an management grad with background in technology. I worked as a developer at TCS on flagship healthcare projects, and now as a Product Manager in Jio's Edge Cloud, I drive ideation to launch of cutting-edge, innovative cloud-native solutions. 
 I thrive on solving problems, digitising experiences, managing stakeholders and driving cross-functional teams. I love making things efficient and user-centric. Let’s connect if you’re looking for someone passionate about learning, growth, and delivering value!!
 
  
-## Work Experience 🚀
+<h2 align="center"> Work Experience </h2>
+
 #### JIO PLATFORMS LIMITED (B2B, B2C | IAAS, SAAS)                                    AUGUST’ 23-PRESENT
 **_Product Manager, Jio Edge Cloud Services_**	
 <li>Led the development and launch of a cloud Object Storage Service leveraging open-source technologies, achieving 70% feature parity with leading CSPs, and currently supporting 50+ active internal users.</li>
@@ -21,7 +22,7 @@ I thrive on solving problems, digitising experiences, managing stakeholders and 
 <li>Spearheaded strategic partnerships with HPE and Intel, driving 2 POC’s setup and achieving mutually beneficial outcomes through effective stakeholder management and discussions.</li>
 <li>Worked with leadership to create and present impactful product demos, strategic roadmaps, go-to-market strategies, and data-driven budget proposals, successfully securing a 10% initial investment.</li>
 
-#### ZAGGLE (B2B | SAAS)                                                             APRIL’ 22 - MAY’ 22
+#### ZAGGLE (B2B | SAAS)  🚀                                                           APRIL’ 22 - MAY’ 22
 ##### Product Manager Intern, Zaggle SAVE
 <li>Collaborated with 3+clients to gather requirements, designing user journeys, PRDs, and wireframes for a client onboarding and email alerting feature, improving SAVE's signup efficiency by 64%.</li>
 <li>Partnered with sales, support, and marketing teams to analyze metrics, identify gaps and opportunities, creating a prioritized product backlog with 35+ actionable feedback items.</li>
@@ -33,7 +34,8 @@ I thrive on solving problems, digitising experiences, managing stakeholders and 
 <li>Led the development of a critical claims’ module, successfully integrating 3 banking clients for secure transactions, while reducing delivery time by 29%.</li>
 
 
-## Education
+<h2 align="center"> Education </h2>
+
 #### PGPM(MBA) Shillong, 2023**
 **_IIM Shillong – 78.38%_**
 <li>National Finalist for Reliance TUP7.0 among 1000+ participating teams.</li>
@@ -56,7 +58,7 @@ I thrive on solving problems, digitising experiences, managing stakeholders and 
 **Data Analytics Using Python, IIM Shillong**
 Analyzed a dataset of 1.3M product sales to uncover key insights into customer behavior, product performance, and historical sales trends. Built a predictive model to forecast next 5-year sales trends, enabling data-driven strategic business decisions.
 
-## Positions of Responsibility
+<h2 align="center"> Positions of Responsibility </h2>
 <li>Member and Lead Volunteer of ‘Nurturing Minds,’ an educational outreach initiative by IIM Shillong.</li>
 <li>Coordinated various events and games for 200+ Telugu students, bringing them together.</li>
 <li>Managed all aspects from funding and planning to successful execution of the Annual Telugu cultural fest.</li>
