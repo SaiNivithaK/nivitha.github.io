@@ -1,10 +1,8 @@
-<h1 align="center"> Kalicheti Sai Nivitha </h1>
+<li> <h1 align="center"> Kalicheti Sai Nivitha </h1>
 
- 
-	                                                           ![screenshot](pictures/image.jpeg)
+![screenshot](pictures/image.jpeg)
 
-
-[![screenshot2](picture/hitheree.png)](pictures/image.jpeg)
+</li>
 
 <h2 align="center"> About me </h2>
 Hi there! I’m Nivitha, a product manager with a knack for turning ideas into impactful products that deliver customer value and business growth. I bring a diverse set of skills and mindset—an management grad with background in technology. I worked as a developer at TCS on flagship healthcare projects, and now as a Product Manager in Jio's Edge Cloud, I drive ideation to launch of cutting-edge, innovative cloud-native solutions. 
@@ -54,7 +52,7 @@ I thrive on solving problems, digitising experiences, managing stakeholders and 
 <li>Awarded C.V Raman ‘Young Genius' for securing district 1st in Science Talent Examination.</li>
 
 
-## Projects
+<h2 align="center"> Projects </h2>
 **Data Analytics Using Python, IIM Shillong**
 Analyzed a dataset of 1.3M product sales to uncover key insights into customer behavior, product performance, and historical sales trends. Built a predictive model to forecast next 5-year sales trends, enabling data-driven strategic business decisions.
 
@@ -66,7 +64,7 @@ Analyzed a dataset of 1.3M product sales to uncover key insights into customer b
 <li>Coordinated as a co-host during school's 10-year Anniversary celebrations in addressing guests.</li>
 <li>Elected as class representative in 10th, corresponded between students and teachers fostering a positive environment.</li>
 
-## Certifications
+<h2 align="center"> Certifications </h2>
 <li>Product Management Essentials course completion certificate from Coursera.</li>
 <li>Digital Product Management: Modern Fundamentals from Coursera.</li>
 <li>Fundamentals of Cloud Computing from Coursera.</li>
@@ -75,10 +73,10 @@ Analyzed a dataset of 1.3M product sales to uncover key insights into customer b
 <li>Certified Google Analytics Individual Qualification.</li>
 
 
-## Skills
+<h2 align="center"> Skills </h2>
 MS Power Point and Excel, Market Research, Competitive Analysis, Product Vision, Strategy & Roadmap, UI/UX Design (Figma), Agile, Product Lifecycle Management, Project Management & Cross-Functional Leadership, Prioritization & Execution, End-to-End Feature Delivery, Python, SQL, HTML, Cloud Native Technologies & Concepts. 
 
 
-## Interests
+<h2 align="center"> Interests </h2>
 Reading (Fiction), Teaching, Water Color Painting, Badminton, Farming, Nature
 
