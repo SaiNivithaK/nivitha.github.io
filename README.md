@@ -53,12 +53,12 @@ I thrive on solving problems, digitising experiences, managing stakeholders and 
 Analyzed a dataset of 1.3M product sales to uncover key insights into customer behavior, product performance, and historical sales trends. Built a predictive model to forecast next 5-year sales trends, enabling data-driven strategic business decisions.
 
 <h2 align="center"> Positions of Responsibility 🌈</h2>
-<li>Member and Lead Volunteer of ‘Nurturing Minds,’ an educational outreach initiative by IIM Shillong.</li>
+⭐ Member and Lead Volunteer of ‘Nurturing Minds,’ an educational outreach initiative by IIM Shillong.<br>
 ⭐ Coordinated various events and games for 200+ Telugu students, bringing them together.<br>
 ⭐ Managed all aspects from funding and planning to successful execution of the Annual Telugu cultural fest.<br>
-✔️ As a member of infrastructure club managed inventory during for 15+ college events, club meets, fests, and workshops.<br>
-✔️ Coordinated as a co-host during school's 10-year Anniversary celebrations in addressing guests.<br>
-<li>Elected as class representative in 10th, corresponded between students and teachers fostering a positive environment.</li>
+⭐ As a member of infrastructure club managed inventory during for 15+ college events, club meets, fests, and workshops.<br>
+⭐ Coordinated as a co-host during school's 10-year Anniversary celebrations in addressing guests.<br>
+⭐ Elected as class representative in 10th, corresponded between students and teachers fostering a positive environment.<br>
 
 <h2 align="center"> Certifications 🔖</h2>
 ✔️ Product Management Essentials course completion certificate from Coursera.<br>
