@@ -61,12 +61,12 @@ Analyzed a dataset of 1.3M product sales to uncover key insights into customer b
 <li>Elected as class representative in 10th, corresponded between students and teachers fostering a positive environment.</li>
 
 <h2 align="center"> Certifications 🔖</h2>
-<li>Product Management Essentials course completion certificate from Coursera.</li>
-<li>Digital Product Management: Modern Fundamentals from Coursera.</li>
-<li>Fundamentals of Cloud Computing from Coursera.</li>
-<li>Advanced Google Analytics course completion certificate from the Google Analytics Academy.</li>
-<li>Google certified The Fundamentals of Digital Marketing course from Google Digital Unlocked.</li>
-<li>Certified Google Analytics Individual Qualification.</li>
+✔️ Product Management Essentials course completion certificate from Coursera.<br>
+✔️ Digital Product Management: Modern Fundamentals from Coursera.<br>
+✔️ Fundamentals of Cloud Computing from Coursera.<br>
+✔️ Advanced Google Analytics course completion certificate from the Google Analytics Academy.<br>
+✔️ Google certified The Fundamentals of Digital Marketing course from Google Digital Unlocked.<br>
+✔️ Certified Google Analytics Individual Qualification.<br>
 
 
 <h2 align="center"> Skills ⚡</h2>
