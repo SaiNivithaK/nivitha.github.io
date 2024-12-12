@@ -11,7 +11,7 @@ I thrive on solving problems, digitising experiences, managing stakeholders and 
 <h2 align="center"> Work Experience 🚀</h2>
 
 #### Product Manager, Jio Edge Cloud Services                                    
-<<h4 align="left"> Jio Platforms Ltd </h4><h4 align="right"> Aug'23 - Present</h4>>
+<h4 align="left"> Jio Platforms Ltd | Aug'23 - Present</h4>
 <li>Led the development and launch of a cloud Object Storage Service leveraging open-source technologies, achieving 70% feature parity with leading CSPs, and currently supporting 50+ active internal users.</li>
 <li>Drove a 6-person team to develop and launch a self-serve Bare Metal Container-as-a-Service, automating and reducing cluster deployment times by ~50% within 4 months.</li>
 <li>Streamlined QA testing process for 7 applications and services, achieving a ~17% reduction in defects and ~20% increase in performance by benchmarking standards.</li>
