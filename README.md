@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="pictures/image.jpeg">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffreepng%2Fcute-girl-hello_9190493.html&psig=AOvVaw2sMn3uiC0BAEmKYjf_hQS1&ust=1734089446178000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCzid2QoooDFQAAAAAdAAAAABAE"
 </p>
 
 
