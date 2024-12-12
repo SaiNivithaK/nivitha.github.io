@@ -12,9 +12,9 @@ I thrive on solving problems, digitising experiences, managing stakeholders and 
 
 #### 🚀 Product Manager, Jio Edge Cloud Services                                    
 <h4 align="left"> Jio Platforms Ltd | Aug'23 - Present</h4>
-✔️ Led the development and launch of a cloud Object Storage Service leveraging open-source technologies, achieving 70% feature parity with leading CSPs, and currently supporting 50+ active internal users.<br>
-◾ Drove a 6-person team to develop and launch a self-serve Bare Metal Container-as-a-Service, automating and reducing cluster deployment times by ~50% within 4 months.<br>
-✔️ Streamlined QA testing process for 7 applications and services, achieving a ~17% reduction in defects and ~20% increase in performance by benchmarking standards.<br>
+⭐ Led the development and launch of a cloud Object Storage Service leveraging open-source technologies, achieving 70% feature parity with leading CSPs, and currently supporting 50+ active internal users.<br>
+⭐ Drove a 6-person team to develop and launch a self-serve Bare Metal Container-as-a-Service, automating and reducing cluster deployment times by ~50% within 4 months.<br>
+⭐ Streamlined QA testing process for 7 applications and services, achieving a ~17% reduction in defects and ~20% increase in performance by benchmarking standards.<br>
 ⭐ Managed and collaborated with a team of 25+ developers, designers, QA, product managers to develop and deliver exceptional products for internal users.<br>
 ✔️ Spearheaded strategic partnerships with HPE and Intel, driving 2 POC’s setup and achieving mutually beneficial outcomes through effective stakeholder management and discussions.<br>
 ✔️ Worked with leadership to create and present impactful product demos, strategic roadmaps, go-to-market strategies, and data-driven budget proposals, successfully securing a 10% initial investment.<br>
@@ -34,17 +34,17 @@ I thrive on solving problems, digitising experiences, managing stakeholders and 
 <h2 align="center"> Education 🎓</h2>
 
 #### PGPM(MBA), IIM Shillong, 2023 - 82.38%
-<li>National Finalist for Reliance TUP7.0 among 1000+ participating teams.</li>
+⭐ National Finalist for Reliance TUP7.0 among 1000+ participating teams.<br>
 	 
 #### B.Tech(ECE), SASTRA University, 2018 - 87.86%	 
-<li>Placed on the Dean's Merit List for achieving a CGPA within the top 10% of my first-year.</li>
+⭐ Placed on the Dean's Merit List for achieving a CGPA within the top 10% of my first-year.<br>
 
 #### CLASS XII, Narayana Jr College, 2014 - 98.20%
-<li>Awarded SHE Scholarship under INSPIRE scheme for performance within top 1% in BIEAP.</li>
-<li>Merit-based scholarship recipient of Central Sector Scheme of Scholarship (CSSS).</li>
+⭐ Awarded SHE Scholarship under INSPIRE scheme for performance within top 1% in BIEAP.<br>
+⭐ Merit-based scholarship recipient of Central Sector Scheme of Scholarship (CSSS).<br>
 
 #### CLASS X, Sri Chaitanya EM School, 2012 - 87.4%	
-<li>Awarded C.V Raman ‘Young Genius' for securing district 1st in Science Talent Examination.</li>
+⭐ Awarded C.V Raman ‘Young Genius' for securing district 1st in Science Talent Examination.</li>
 
 
 <h2 align="center"> Projects 📑</h2>
@@ -54,8 +54,8 @@ Analyzed a dataset of 1.3M product sales to uncover key insights into customer b
 
 <h2 align="center"> Positions of Responsibility 🌈</h2>
 <li>Member and Lead Volunteer of ‘Nurturing Minds,’ an educational outreach initiative by IIM Shillong.</li>
-<li>Coordinated various events and games for 200+ Telugu students, bringing them together.</li>
-<li>Managed all aspects from funding and planning to successful execution of the Annual Telugu cultural fest.</li>
+⭐ Coordinated various events and games for 200+ Telugu students, bringing them together.<br>
+⭐ Managed all aspects from funding and planning to successful execution of the Annual Telugu cultural fest.<br>
 <li>As a member of infrastructure club managed inventory during for 15+ college events, club meets, fests, and workshops.</li>
 <li>Coordinated as a co-host during school's 10-year Anniversary celebrations in addressing guests.</li>
 <li>Elected as class representative in 10th, corresponded between students and teachers fostering a positive environment.</li>
