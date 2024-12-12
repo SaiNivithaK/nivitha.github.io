@@ -1,10 +1,10 @@
 ## Kalicheti Sai Nivitha
 ![screenshot](pictures/image.jpeg)
-### About me
+**### About me**
 Hi there! I’m Nivitha, a product manager with a knack for turning ideas into impactful products. I bring a diverse background—an ECE grad from SASTRA University, a developer at TCS working on flagship healthcare projects, and now part of Jio Edge Cloud, crafting cloud-native solutions.
 I thrive on solving problems, digitizing experiences, and driving cross-functional teams. From streamlining claims to designing SaaS journeys, I love making things efficient and user-centric. Let’s connect if you're looking for someone passionate about learning, growth, and delivering value!!
  
-### Work Experience🚀
+**### Work Experience 🚀**
 #### JIO PLATFORMS LIMITED (B2B, B2C | IAAS, SAAS)                                    AUGUST’ 23-PRESENT
 **_Product Manager, Jio Edge Cloud Services_**	
 <li>Led the development and launch of a cloud Object Storage Service leveraging open-source technologies, achieving 70% feature parity with leading CSPs, and currently supporting 50+ active internal users.</li>
@@ -26,7 +26,7 @@ I thrive on solving problems, digitizing experiences, and driving cross-function
 <li>Led the development of a critical claims’ module, successfully integrating 3 banking clients for secure transactions, while reducing delivery time by 29%.</li>
 
 
-### Education
+**### Education**
 **PGPM(MBA) Shillong, 2023**
 **_IIM Shillong – 78.38%_**
 <li>National Finalist for Reliance TUP7.0 among 1000+ participating teams.</li>
@@ -45,11 +45,11 @@ I thrive on solving problems, digitizing experiences, and driving cross-function
 <li>Awarded C.V Raman ‘Young Genius' for securing district 1st in Science Talent Examination.</li>
 
 
-### Projects
+**### Projects**
 **Data Analytics Using Python, IIM Shillong**
 Analyzed a dataset of 1.3M product sales to uncover key insights into customer behavior, product performance, and historical sales trends. Built a predictive model to forecast next 5-year sales trends, enabling data-driven strategic business decisions.
 
-### Positions of Responsibility
+**### Positions of Responsibility**
 <li>Member and Lead Volunteer of ‘Nurturing Minds,’ an educational outreach initiative by IIM Shillong.</li>
 <li>Coordinated various events and games for 200+ Telugu students, bringing them together.</li>
 <li>Managed all aspects from funding and planning to successful execution of the Annual Telugu cultural fest.</li>
@@ -57,7 +57,7 @@ Analyzed a dataset of 1.3M product sales to uncover key insights into customer b
 <li>Coordinated as a co-host during school's 10-year Anniversary celebrations in addressing guests.</li>
 <li>Elected as class representative in 10th, corresponded between students and teachers fostering a positive environment.</li>
 
-### Certifications
+**### Certifications**
 <li>Product Management Essentials course completion certificate from Coursera.</li>
 <li>Digital Product Management: Modern Fundamentals from Coursera.</li>
 <li>Fundamentals of Cloud Computing from Coursera.</li>
@@ -66,10 +66,10 @@ Analyzed a dataset of 1.3M product sales to uncover key insights into customer b
 <li>Certified Google Analytics Individual Qualification.</li>
 
 
-### Skills
+**### Skills**
 MS Power Point and Excel, Market Research, Competitive Analysis, Product Vision, Strategy & Roadmap, UI/UX Design (Figma), Agile, Product Lifecycle Management, Project Management & Cross-Functional Leadership, Prioritization & Execution, End-to-End Feature Delivery, Python, SQL, HTML, Cloud Native Technologies & Concepts. 
 
 
-### Interests
+**### Interests**
 Reading (Fiction), Teaching, Water Color Painting, Badminton, Farming, Nature
 
