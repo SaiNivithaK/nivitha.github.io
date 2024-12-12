@@ -68,7 +68,7 @@ Analyzed a dataset of 1.3M product sales to uncover key insights into customer b
 <li>Certified Google Analytics Individual Qualification.</li>
 
 
-<h2 align="center"> Skills ✨</h2>
+<h2 align="center"> Skills ⚡</h2>
 MS Power Point and Excel, Market Research, Competitive Analysis, Product Vision, Strategy & Roadmap, UI/UX Design (Figma), Agile, Product Lifecycle Management, Project Management & Cross-Functional Leadership, Prioritization & Execution, End-to-End Feature Delivery, Python, SQL, HTML, Cloud Native Technologies & Concepts. 
 
 
