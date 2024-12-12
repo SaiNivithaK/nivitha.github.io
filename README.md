@@ -1,5 +1,4 @@
- 
-<h2>Kalicheti Sai Nivitha</h2> ![screenshot](pictures/hitheree.png)
+## Kalicheti Sai Nivitha
 ![screenshot](pictures/image.jpeg)
 ### About me
 Hi there! I’m Nivitha, a product manager with a knack for turning ideas into impactful products. I bring a diverse background—an ECE grad from SASTRA University, a developer at TCS working on flagship healthcare projects, and now part of Jio Edge Cloud, crafting cloud-native solutions.
@@ -7,7 +6,7 @@ I thrive on solving problems, digitizing experiences, and driving cross-function
  
 ### Work Experience🚀
 #### JIO PLATFORMS LIMITED (B2B, B2C | IAAS, SAAS)                                    AUGUST’ 23-PRESENT
-**_ Product Manager, Jio Edge Cloud Services_**	
+**_Product Manager, Jio Edge Cloud Services_**	
 <li>Led the development and launch of a cloud Object Storage Service leveraging open-source technologies, achieving 70% feature parity with leading CSPs, and currently supporting 50+ active internal users.</li>
 <li>Drove a 6-person team to develop and launch a self-serve Bare Metal Container-as-a-Service, automating and reducing cluster deployment times by ~50% within 4 months.</li>
 <li>Streamlined QA testing process for 7 applications and services, achieving a ~17% reduction in defects and ~20% increase in performance by benchmarking standards.</li>
