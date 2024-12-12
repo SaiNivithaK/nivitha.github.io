@@ -1,10 +1,8 @@
 <h1 align="center"> Kalicheti Sai Nivitha ✨</h1>
 
-
 <p align="center">
   <img src="pictures/image.jpeg">
 </p>
-
 
 <h2 align="center"> About me 💫</h2>
 Hi there!👋🏻 I’m Nivitha, a product manager with a knack for turning ideas into impactful products that deliver customer value and business growth. I bring a diverse set of skills and mindset—an management grad with background in technology. I worked as a developer at TCS on flagship healthcare projects, and now as a Product Manager in Jio's Edge Cloud, I drive ideation to launch of cutting-edge, innovative cloud-native solutions. 
