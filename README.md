@@ -1,7 +1,5 @@
 <h1 align="center"> Kalicheti Sai Nivitha ✨</h1>
 
-![screenshot](pictures/image.jpeg)
-
 
 <p align="center">
   <img src="pictures/image.jpeg">
