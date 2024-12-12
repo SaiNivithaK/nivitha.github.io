@@ -16,8 +16,8 @@ I thrive on solving problems, digitising experiences, managing stakeholders and 
 ✔️ Drove a 6-person team to develop and launch a self-serve Bare Metal Container-as-a-Service, automating and reducing cluster deployment times by ~50% within 4 months.<br>
 ✔️ Streamlined QA testing process for 7 applications and services, achieving a ~17% reduction in defects and ~20% increase in performance by benchmarking standards.<br>
 ✔️ Managed and collaborated with a team of 25+ developers, designers, QA, product managers to develop and deliver exceptional products for internal users.<br>
-<li>Spearheaded strategic partnerships with HPE and Intel, driving 2 POC’s setup and achieving mutually beneficial outcomes through effective stakeholder management and discussions.</li>
-<li>Worked with leadership to create and present impactful product demos, strategic roadmaps, go-to-market strategies, and data-driven budget proposals, successfully securing a 10% initial investment.</li>
+✔️ Spearheaded strategic partnerships with HPE and Intel, driving 2 POC’s setup and achieving mutually beneficial outcomes through effective stakeholder management and discussions.<br>
+✔️ Worked with leadership to create and present impactful product demos, strategic roadmaps, go-to-market strategies, and data-driven budget proposals, successfully securing a 10% initial investment.<br>
 
 #### 🚀 Product Manager Intern, Zaggle SAVE                                                             
 <h4 align="left"> ZAGGLE | Apr'22 - Jun'22</h4>
@@ -26,9 +26,9 @@ I thrive on solving problems, digitising experiences, managing stakeholders and 
 
 #### 🚀 System Engineer, MJPJAY                                                        
 <h4 align="left"> Tata Consultancy Services | Jun'18 - Aug'21</h4>
-<li>Redesigned Follow-up and Repudiation modules, effectively coordinating with diverse stakeholders to implement key changes, leading to 40% increase in customer satisfaction ratings.</li>
-<li>Developed a feature for the empaneled hospitals to enroll and manage their services in the application.</li>
-<li>Led the development of a critical claims’ module, successfully integrating 3 banking clients for secure transactions, while reducing delivery time by 29%.</li>
+✔️ Redesigned Follow-up and Repudiation modules, effectively coordinating with diverse stakeholders to implement key changes, leading to 40% increase in customer satisfaction ratings.<br>
+✔️ Developed a feature for the empaneled hospitals to enroll and manage their services in the application.<br>
+✔️ Led the development of a critical claims’ module, successfully integrating 3 banking clients for secure transactions, while reducing delivery time by 29%.<br>
 
 
 <h2 align="center"> Education 🎓</h2>
