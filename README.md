@@ -12,7 +12,7 @@ I thrive on solving problems, digitising experiences, managing stakeholders and 
 <h2 align="center"> Work Experience </h2>
 
 #### JIO PLATFORMS LIMITED (B2B, B2C | IAAS, SAAS)                                    AUGUST’ 23-PRESENT
-**_Product Manager, Jio Edge Cloud Services_**	
+##### Product Manager, Jio Edge Cloud Services	
 <li>Led the development and launch of a cloud Object Storage Service leveraging open-source technologies, achieving 70% feature parity with leading CSPs, and currently supporting 50+ active internal users.</li>
 <li>Drove a 6-person team to develop and launch a self-serve Bare Metal Container-as-a-Service, automating and reducing cluster deployment times by ~50% within 4 months.</li>
 <li>Streamlined QA testing process for 7 applications and services, achieving a ~17% reduction in defects and ~20% increase in performance by benchmarking standards.</li>
@@ -25,8 +25,8 @@ I thrive on solving problems, digitising experiences, managing stakeholders and 
 <li>Collaborated with 3+clients to gather requirements, designing user journeys, PRDs, and wireframes for a client onboarding and email alerting feature, improving SAVE's signup efficiency by 64%.</li>
 <li>Partnered with sales, support, and marketing teams to analyze metrics, identify gaps and opportunities, creating a prioritized product backlog with 35+ actionable feedback items.</li>
 
-#### TATA CONSULTANCY SERVICES                                                       JUNE’ 18- AUGUST’ 21
-**System Engineer, MJPJAY**
+#### TATA CONSULTANCY SERVICES                                                         JUNE’ 18- AUGUST’ 21
+##### System Engineer, MJPJAY
 <li>Redesigned Follow-up and Repudiation modules, effectively coordinating with diverse stakeholders to implement key changes, leading to 40% increase in customer satisfaction ratings.</li>
 <li>Developed a feature for the empaneled hospitals to enroll and manage their services in the application.</li>
 <li>Led the development of a critical claims’ module, successfully integrating 3 banking clients for secure transactions, while reducing delivery time by 29%.</li>
@@ -34,16 +34,14 @@ I thrive on solving problems, digitising experiences, managing stakeholders and 
 
 <h2 align="center"> Education </h2>
 
-#### PGPM(MBA) Shillong, 2023**
-**_IIM Shillong – 78.38%_**
+#### PGPM(MBA), IIM Shillong, 2023 - 82.38%
 <li>National Finalist for Reliance TUP7.0 among 1000+ participating teams.</li>
 	 
 #### B.Tech (ECE) Thanjavur, 2018 
-**_SASTRA University – 81.86%_**	 
+**_SASTRA University – 87.86%_**	 
 <li>Placed on the Dean's Merit List for achieving a CGPA within the top 10% of my first-year.</li>
 
-#### CLASS XII 	Nellore, 2014 
-##### Narayana Junior College – 98.20%
+#### CLASS XII, Narayana Jr College, 2014 - 98.20%
 <li>Awarded SHE Scholarship under INSPIRE scheme for performance within top 1% in BIEAP.</li>
 <li>Merit-based scholarship recipient of Central Sector Scheme of Scholarship (CSSS).</li>
 
