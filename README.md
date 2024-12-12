@@ -8,7 +8,7 @@ Hi there! I’m Nivitha, a product manager with a knack for turning ideas into i
 I thrive on solving problems, digitising experiences, managing stakeholders and driving cross-functional teams. I love making things efficient and user-centric. Let’s connect if you’re looking for someone passionate about learning, growth, and delivering value!!
 
  
-<h2 align="center"> Work Experience 🚀👩‍💻</h2>
+<h2 align="center"> Work Experience 👩‍💻</h2>
 
 #### 🚀 Product Manager, Jio Edge Cloud Services                                    
 <h4 align="left"> Jio Platforms Ltd | Aug'23 - Present</h4>
