@@ -3,6 +3,12 @@
 ![screenshot](pictures/image.jpeg)
 
 
+<p align="center">
+  <img width="460" height="300" src="pictures/image.jpeg">
+  <img width="460" height="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffreepng%2Fcute-girl-hello_9190493.html&psig=AOvVaw2sMn3uiC0BAEmKYjf_hQS1&ust=1734089446178000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCzid2QoooDFQAAAAAdAAAAABAE"
+</p>
+
+
 <h2 align="center"> About me 💫</h2>
 Hi there!👋🏻 I’m Nivitha, a product manager with a knack for turning ideas into impactful products that deliver customer value and business growth. I bring a diverse set of skills and mindset—an management grad with background in technology. I worked as a developer at TCS on flagship healthcare projects, and now as a Product Manager in Jio's Edge Cloud, I drive ideation to launch of cutting-edge, innovative cloud-native solutions. 
 I thrive on solving problems, digitising experiences, managing stakeholders and driving cross-functional teams. I love making things efficient and user-centric. Let’s connect if you’re looking for someone passionate about learning, growth, and delivering value!!
