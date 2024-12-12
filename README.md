@@ -48,7 +48,8 @@ I thrive on solving problems, digitising experiences, managing stakeholders and 
 
 
 <h2 align="center"> Projects 📑</h2>
-**Data Analytics Using Python, IIM Shillong**
+
+#### Data Analytics Using Python, IIM Shillong
 Analyzed a dataset of 1.3M product sales to uncover key insights into customer behavior, product performance, and historical sales trends. Built a predictive model to forecast next 5-year sales trends, enabling data-driven strategic business decisions.
 
 <h2 align="center"> Positions of Responsibility 🌈</h2>
