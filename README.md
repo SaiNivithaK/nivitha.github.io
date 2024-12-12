@@ -1,7 +1,7 @@
-## Kalicheti Sai Nivitha
-![screenshot](pictures/image.jpeg)
+# Kalicheti Sai Nivitha
+<p align="center">![screenshot](pictures/image.jpeg)</p>
 
-[![BinaryTree](https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_light.png)](pictures/image.jpeg)
+[![screenshot](picture/hitheree.png)](pictures/image.jpeg)
 
 ## About me
 Hi there! I’m Nivitha, a product manager with a knack for turning ideas into impactful products that deliver customer value and business growth. I bring a diverse set of skills and mindset—an management grad with background in technology. I worked as a developer at TCS on flagship healthcare projects, and now as a Product Manager in Jio's Edge Cloud, I drive ideation to launch of cutting-edge, innovative cloud-native solutions. 
