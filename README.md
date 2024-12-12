@@ -8,9 +8,9 @@ Hi there! I’m Nivitha, a product manager with a knack for turning ideas into i
 I thrive on solving problems, digitising experiences, managing stakeholders and driving cross-functional teams. I love making things efficient and user-centric. Let’s connect if you’re looking for someone passionate about learning, growth, and delivering value!!
 
  
-<h2 align="center"> Work Experience 🚀</h2>
+<h2 align="center"> Work Experience 🚀👩‍💻</h2>
 
-#### Product Manager, Jio Edge Cloud Services                                    
+#### 🚀 Product Manager, Jio Edge Cloud Services                                    
 <h4 align="left"> Jio Platforms Ltd | Aug'23 - Present</h4>
 <li>Led the development and launch of a cloud Object Storage Service leveraging open-source technologies, achieving 70% feature parity with leading CSPs, and currently supporting 50+ active internal users.</li>
 <li>Drove a 6-person team to develop and launch a self-serve Bare Metal Container-as-a-Service, automating and reducing cluster deployment times by ~50% within 4 months.</li>
@@ -19,12 +19,12 @@ I thrive on solving problems, digitising experiences, managing stakeholders and 
 <li>Spearheaded strategic partnerships with HPE and Intel, driving 2 POC’s setup and achieving mutually beneficial outcomes through effective stakeholder management and discussions.</li>
 <li>Worked with leadership to create and present impactful product demos, strategic roadmaps, go-to-market strategies, and data-driven budget proposals, successfully securing a 10% initial investment.</li>
 
-#### Product Manager Intern, Zaggle SAVE                                                             
+#### 🚀 Product Manager Intern, Zaggle SAVE                                                             
 <h4 align="left"> ZAGGLE | Apr'22 - Jun'22</h4>
 <li>Collaborated with 3+clients to gather requirements, designing user journeys, PRDs, and wireframes for a client onboarding and email alerting feature, improving SAVE's signup efficiency by 64%.</li>
 <li>Partnered with sales, support, and marketing teams to analyze metrics, identify gaps and opportunities, creating a prioritized product backlog with 35+ actionable feedback items.</li>
 
-#### System Engineer, MJPJAY                                                        
+#### 🚀 System Engineer, MJPJAY                                                        
 <h4 align="left"> Tata Consultancy Services | Jun'18 - Aug'21</h4>
 <li>Redesigned Follow-up and Repudiation modules, effectively coordinating with diverse stakeholders to implement key changes, leading to 40% increase in customer satisfaction ratings.</li>
 <li>Developed a feature for the empaneled hospitals to enroll and manage their services in the application.</li>
