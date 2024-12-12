@@ -46,11 +46,11 @@ I thrive on solving problems, digitising experiences, managing stakeholders and 
 <li>Placed on the Dean's Merit List for achieving a CGPA within the top 10% of my first-year.</li>
 
 #### CLASS XII, Narayana Jr College, 2014 - 98.20%
-⭐ Awarded SHE Scholarship under INSPIRE scheme for performance within top 1% in BIEAP.<br>
-⭐ Merit-based scholarship recipient of Central Sector Scheme of Scholarship (CSSS).<br>
+<li>Awarded SHE Scholarship under INSPIRE scheme for performance within top 1% in BIEAP.</li>
+<li>Merit-based scholarship recipient of Central Sector Scheme of Scholarship (CSSS).</li>
 
 #### CLASS X, Sri Chaitanya EM School, 2012 - 87.4%	
-⭐ Awarded C.V Raman ‘Young Genius' for securing district 1st in Science Talent Examination.</li>
+<li>Awarded C.V Raman ‘Young Genius' for securing district 1st in Science Talent Examination.</li>
 
 
 <h2 align="center"> Projects 📑</h2>
