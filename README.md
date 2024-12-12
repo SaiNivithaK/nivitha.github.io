@@ -37,16 +37,14 @@ I thrive on solving problems, digitising experiences, managing stakeholders and 
 #### PGPM(MBA), IIM Shillong, 2023 - 82.38%
 <li>National Finalist for Reliance TUP7.0 among 1000+ participating teams.</li>
 	 
-#### B.Tech (ECE) Thanjavur, 2018 
-**_SASTRA University – 87.86%_**	 
+#### B.Tech(ECE), SASTRA University, 2018 - 87.86%	 
 <li>Placed on the Dean's Merit List for achieving a CGPA within the top 10% of my first-year.</li>
 
 #### CLASS XII, Narayana Jr College, 2014 - 98.20%
 <li>Awarded SHE Scholarship under INSPIRE scheme for performance within top 1% in BIEAP.</li>
 <li>Merit-based scholarship recipient of Central Sector Scheme of Scholarship (CSSS).</li>
 
-#### CLASS X 	Nellore, 2012 
-**_Sri Chaitanya EM School – 87.4%_**	
+#### CLASS X, Sri Chaitanya EM School, 2012 - 87.4%	
 <li>Awarded C.V Raman ‘Young Genius' for securing district 1st in Science Talent Examination.</li>
 
 
