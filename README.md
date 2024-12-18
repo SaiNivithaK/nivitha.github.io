@@ -22,17 +22,17 @@ I thrive on solving problems, digitising experiences, managing stakeholders and 
     exceptional products for internal users.<br>
 ✈ Spearheaded strategic partnerships with HPE and Intel, driving 2 POC’s setup and achieving mutually beneficial outcomes 
     through effective stakeholder management and discussions.<br>
-✔️ Worked with leadership to create and present impactful product demos, strategic roadmaps, go-to-market strategies, and 
+✈ Worked with leadership to create and present impactful product demos, strategic roadmaps, go-to-market strategies, and 
     data-driven budget proposals, successfully securing a 10% initial investment.<br>
 
 <h4> 🚀 Product Manager Intern, Zaggle SAVE | ZAGGLE | Apr'22 - Jun'22</h4>
-✔️ Collaborated with 3+clients to gather requirements, designing user journeys, PRDs, and wireframes for a client onboarding and email alerting feature, improving SAVE's signup efficiency by 64%.<br>
-✔️ Partnered with sales, support, and marketing teams to analyze metrics, identify gaps and opportunities, creating a prioritized product backlog with 35+ actionable feedback items.<br>
+✈ Collaborated with 3+clients to gather requirements, designing user journeys, PRDs, and wireframes for a client onboarding and email alerting feature, improving SAVE's signup efficiency by 64%.<br>
+✈ Partnered with sales, support, and marketing teams to analyze metrics, identify gaps and opportunities, creating a prioritized product backlog with 35+ actionable feedback items.<br>
 
 <h4> 🚀 System Engineer, MJPJAY | Tata Consultancy Services | Jun'18 - Aug'21</h4>
-✔️ Redesigned Follow-up and Repudiation modules, effectively coordinating with diverse stakeholders to implement key changes, leading to 40% increase in customer satisfaction ratings.<br>
-✔️ Developed a feature for the empaneled hospitals to enroll and manage their services in the application.<br>
-✔️ Led the development of a critical claims’ module, successfully integrating 3 banking clients for secure transactions, while reducing delivery time by 29%.<br>
+✈ Redesigned Follow-up and Repudiation modules, effectively coordinating with diverse stakeholders to implement key changes, leading to 40% increase in customer satisfaction ratings.<br>
+✈ Developed a feature for the empaneled hospitals to enroll and manage their services in the application.<br>
+✈ Led the development of a critical claims’ module, successfully integrating 3 banking clients for secure transactions, while reducing delivery time by 29%.<br>
 
 
 <h2 align="center"> Education 🎓</h2>
